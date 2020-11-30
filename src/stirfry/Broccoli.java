@@ -17,7 +17,7 @@ public class Broccoli extends Vegetable implements Organic {
 
     @Override
     public boolean isTasty() {
-        return false;
+        return true;
     }
 
     @Override

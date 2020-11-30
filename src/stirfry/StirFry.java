@@ -18,9 +18,11 @@ public class StirFry {
         
         Vegetable v1 = new Orange();
         Vegetable v2 = new Broccoli();
+        Vegetable v3 = new Onion(10);
         
         veggies.add(v1);
         veggies.add(v2);
+        veggies.add(v3);
         
         boolean tasteGood = true;
         
